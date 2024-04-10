@@ -1,6 +1,7 @@
 # Environment
-- python3 (3.11 recommended for installing PyAudio. At 3.12 it is not easy to install PyAudio.)
 - Mic & Speaker
+- python3 (3.11 recommended for installing PyAudio. At 3.12 it is not easy to install PyAudio.)
+- venv
 
 # How to use
 - install all requirements
