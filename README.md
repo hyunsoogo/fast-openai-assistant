@@ -14,5 +14,9 @@
   OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxx
   ASSISTANT_ID=asst_xxxxxxxxxxxxxxxxxxxxxxxxxx
   ```
-  https://platform.openai.com/api-keys for OPENAI_API_KEY
-  https://platform.openai.com/assistants for ASSISTANT_ID
+  - https://platform.openai.com/api-keys for OPENAI_API_KEY
+  - https://platform.openai.com/assistants for ASSISTANT_ID
+
+# How is it fast?
+- Adopted openai's streaming api
+- Used threading fully to fetch the assistant's responses and generate audio files
