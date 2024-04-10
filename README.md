@@ -1,7 +1,8 @@
 # Environment
-- Mic & Speaker
+- mic & speaker
 - python3 (3.11 recommended for installing PyAudio. At 3.12 it is not easy to install PyAudio.)
-- venv
+- venv (recommended)
+
 
 # How to use
 - install all requirements
@@ -16,6 +17,9 @@
   ```
   - https://platform.openai.com/api-keys for OPENAI_API_KEY
   - https://platform.openai.com/assistants for ASSISTANT_ID
+
+- run assistant.py !
+
 
 # How is it fast?
 - Adopted openai's streaming api
